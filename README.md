@@ -37,5 +37,27 @@ The following technologies are used in this project:
 To get started with this project, follow these steps:
 
 1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/personal-homepage.git
+   git clone https://github.com/DorotaKar/react-personal-homepage.git
+
+2. Navigate to the project directory:
+cd react-personal-homepage
+
+3. Install the dependencies:
+npm install
+
+## Usage
+To run the project locally, use the following command:
+npm start
+
+This will start the development server and open the project in your default web browser. You can now make changes to the code and see them reflected in real-time.
+
+## Contributing
+Contributions are welcome! If you have any ideas, suggestions, or bug reports, please open an issue or submit a pull request. For major changes, please open an issue first to discuss what you would like to change.
+
+## License
+This project is licensed under the MIT License. See the LICENSE file for more information.
+
+## Contact
+If you have any questions or feedback, feel free to reach out to me at dorotakarpinska.dev@gmail.com.
+
+Thank you for visiting my Personal Homepage project!
